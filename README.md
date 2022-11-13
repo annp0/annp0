@@ -2,6 +2,8 @@ I am @annp0, a student.
 
 Please refer to annp0.github.io for more info.
 
+My email: annan at shanghaitech.edu.cn
+
 Thank you.
 
 <!---
